@@ -25,5 +25,9 @@ what was sent from the phone.
 
 Fourth Screen will just display information from the cooker and the 
 status of the cooking meal.  This will be stuff set later once we have
-set up the system and can read the information.
+set up the system and can read the information.  Will also have the unlock
+button that will allow for the user to open the container.
+
+Once it is done and registers that it is closed it will then go back to the 
+Third screen to wait.  
 
