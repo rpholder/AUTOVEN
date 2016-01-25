@@ -6,6 +6,7 @@ The GUI interface needs to be done in C++.
 
 This will be preferably done with QT 4 Creator so as 
 to make it easier on the designer and implementation.
+All windows will be full screen and will be a 320x240 pixel design.
 
 First time power up screen will show the list of available networks 
 and allow for user to select that network to proceed and have possible
