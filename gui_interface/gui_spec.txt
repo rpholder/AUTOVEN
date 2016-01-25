@@ -1,0 +1,29 @@
+Latest Update: 	1/25/16
+Modified By: 	Ryan Holder
+Update #1:
+
+The GUI interface needs to be done in C++.
+
+This will be preferably done with QT 4 Creator so as 
+to make it easier on the designer and implementation.
+
+First time power up screen will show the list of available networks 
+and allow for user to select that network to proceed and have possible
+input for password entry.
+
+Second Screen on default power up will be to display a QR code
+that the contains the ip address of the cooker so that the user 
+can just scan it with their phone to make the connection.  It 
+will also display the information embedded in the qr code so that 
+if the users phone is not able to read the lcd screen. They can input 
+the information manually.  
+
+Third Screen will be just display information on the cooker and possible 
+updates from our git server and wait for user input from the phone. 
+It will also display confirmation messages so that the user can verify 
+what was sent from the phone.
+
+Fourth Screen will just display information from the cooker and the 
+status of the cooking meal.  This will be stuff set later once we have
+set up the system and can read the information.
+
